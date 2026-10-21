@@ -1,12 +1,11 @@
-[11.06, 21/10/2026] roby: kartu-profil {
+[ kartu-profil {
   width: 300px;
   margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
   padding: 20px;
   background-color: white;
   border-radius: 15px; /* Membuat sudut menjadi melengkung */
   box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan */
-}
-[11.12, 21/10/2026] roby: color: #191970; /* Warna teks utama (Biru Gelap) */
+}: color: #191970; /* Warna teks utama (Biru Gelap) */
 }
 
 .kartu-profil {
